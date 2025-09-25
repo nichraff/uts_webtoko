@@ -1,0 +1,165 @@
+body {
+      margin: 0;
+      height: 100vh; 
+      display: flex;
+      justify-content: center; 
+      align-items: center;    
+      background: #ff889c;
+    }
+
+    .container {
+      width: 500px;
+      padding: 20px;
+      background: rgb(103, 190, 77);
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    }
+
+    .foto {
+        width: 300px;
+    }
+
+    .warna
+    {
+      margin: 0;
+      height: 280vh; 
+      display: flex;
+      justify-content: center; 
+      align-items: center;    
+      background: #ff889c;
+    }
+
+    .conter{
+    width: 600px;
+      padding: 20px;
+      background:  rgb(103, 190, 77);
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    }
+    
+    .gambar{
+        width: 300px;
+    }
+
+header {
+  text-align: center;
+  background-color: #004080;
+  color: #08e198;
+  padding: 20px 0;
+}
+
+.logo {
+  width: 100px;
+  margin-bottom: 10px;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+  background-color: #004080;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+nav ul li a:hover {
+  background-color: #555;
+}
+
+.banner img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+table th {
+background-color: #004080;
+  color: rgb(247, 246, 246);
+  border: 2px solid #000000;
+}
+
+
+.tabel td {
+  width: 500px;
+  border-collapse: collapse; 
+  background-color: rgb(255, 255, 255);   
+  border: 2px solid #000000;    
+}
+
+table th:first-child,
+table td:first-child {
+  width: 50px; 
+  text-align: center;
+}
+
+table th:last-child,
+table td:last-child {
+  width: 110px; 
+  text-align: center;
+}
+
+
+.intro, .content {
+  margin-top: 20px;
+}
+
+.btn {
+  display: inline-block;
+  background-color: #004080;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #003060;
+}
+
+footer {
+  text-align: center;
+  background-color: #004080;
+  color: white;
+  padding: 10px 0;
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+table th, table td {
+  padding: 8px;
+  text-align: left;
+}
+
+.demo {
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+.container {
+      width: 500px;
+      padding: 20px;
+      background: rgb(103, 190, 77);
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    }
+
+.logotentang {
+       width: 250px;
+    }
